@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T23:19:55.907Z'
-dateModified: '2016-03-02T23:15:20.244Z'
-title: "2. L’ANSIA DI COMPRARE ONLINE\_"
+datePublished: '2016-03-02T23:36:06.297Z'
+dateModified: '2016-03-02T23:35:38.394Z'
+title: "L’ANSIA DI COMPRARE ONLINE\_"
 author: []
 authors: []
 publisher:
@@ -22,9 +22,9 @@ url: 2-lansia-di-comprare-online/index.html
 _type: Article
 
 ---
-L'ANSIA DI COMPRARE ONLINE ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03f400e7-bb24-482c-9eed-3b75a3404bcb.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fea19b35ee6ef778b1b07a98298cf36f476a59a1.jpg)
 
-# 2\. L'ANSIA DI COMPRARE ONLINE 
+# L'ANSIA DI COMPRARE ONLINE 
 
 Per il mio matrimonio, sono stata salvata da mia madre, che nonostante fosse in 
 America e' riuscita ad organizzare tutto, a parte il mio vestito. Risoluta in 
