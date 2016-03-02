@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T23:00:04.823Z'
-dateModified: '2016-03-02T22:36:04.840Z'
+datePublished: '2016-03-02T23:19:55.907Z'
+dateModified: '2016-03-02T23:15:20.244Z'
 title: "2. L’ANSIA DI COMPRARE ONLINE\_"
 author: []
 authors: []
@@ -22,7 +22,7 @@ url: 2-lansia-di-comprare-online/index.html
 _type: Article
 
 ---
-2\. L'ANSIA DI COMPRARE ONLINE ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03f400e7-bb24-482c-9eed-3b75a3404bcb.JPG)
+L'ANSIA DI COMPRARE ONLINE ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03f400e7-bb24-482c-9eed-3b75a3404bcb.JPG)
 
 # 2\. L'ANSIA DI COMPRARE ONLINE 
 
