@@ -1,0 +1,40 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-09T20:50:53.809Z'
+dateModified: '2016-03-09T20:50:44.489Z'
+title: "PRIME IMPRESSIONI DI UN SITO\_"
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-03-09-prime-impressioni-di-un-sito.md
+published: true
+url: prime-impressioni-di-un-sito/index.html
+_type: Article
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d9fe963-393b-4e9b-bb48-5fc54a00b997.jpg)
+
+# PRIME IMPRESSIONI DI UN SITO 
+
+Il sito e' fondamentale nel formare l'impressione che lasciate della vostra azienda agli occhi del consumatore. Se l'esperienza che fornite su quel canale e' buona, avrete due benefici: 1) il vostro brand sara' considerato in maniera positiva; e 2) i consumatori/clienti torneranno a visitarlo. 
+
+In alcuni casi ho trovato siti che non sono stati testati prima di essere lanciati su Internet, e che riportano errori a seconda del dispositivo di accesso, es. un cellulare o un PC; e del browser utilizzato, ovvero attraverso quale browser (Chrome, Explorer, Firefox, ecc.). 
+
+Se il sito e' creato per essere visitato principalmente da un computer, un utente potrebbe avere difficolta' nell'usufruirne da un cellulare -- questo perche' i cellulari hanno sistemi operativi diversi, schermi piu' piccoli e minori funzionalita' di controllo. In alcuni casi, il testo, le foto ed i bottoni appaiono troppo piccoli, e parti del sito non sono visibili perche' creati con tecnologie incompatibili. 
+
+**CONSIGLIO:**
+
+Al giorno d'oggi quando si pensa ad un sito, s'inizia sempre dall'esperienza che si vuol creare su un cellulare. Proprio perche' le funzionalita' sono piu' limitate di un PC, l'esperienza dev'essere di per se' essenziale. La semplicita' e la fruibilita' di un sito fatto bene per un cellulare dara' delle ottime fondamenta per creare siti per tablet, PC e TV. Testate sempre i vostri siti sui dispositivi ed i browser piu' comuni tra i vostri clienti. 
+
+_Tags \#mobilefirst \#responsivewebdesign \#cross-channel \#userexperience \#browser \#PC \#mobile \#tablet
+_
