@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-09T21:37:50.365Z'
-dateModified: '2016-03-09T21:34:34.862Z'
+description: "\_Le persone che scrivono i contenuti per i siti aziendali spesso non conoscono il linguaggio dei loro clienti e non si preoccupano di migliorare il modo di comunicare con loro online. \n\nParte del problema inizia quando le aziende applicano le loro logiche/ organizzazioni interne al linguaggio dei testi, anche nella denominazione dei contenuti del sito, dal menu’ alle schede del prodotto.\_"
+datePublished: '2016-03-10T23:31:04.549Z'
+dateModified: '2016-03-10T10:29:14.145Z'
 title: "IL LINGUAGGIO DEL SITO\_"
 author: []
+sourcePath: _posts/2016-03-09-il-linguaggio-del-sito.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-il-linguaggio-del-sito.md
-published: true
 url: il-linguaggio-del-sito/index.html
 _type: Article
 
