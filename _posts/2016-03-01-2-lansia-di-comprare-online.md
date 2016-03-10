@@ -5,9 +5,18 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-02T23:36:06.297Z'
-dateModified: '2016-03-02T23:35:38.394Z'
+description: >-
+  Molti dei siti di e-commerce sono concepiti in base
+
+  ad esigenze commerciali. Quando il sito e’ basato solo sugli obiettivi
+
+  dell’azienda, purtroppo si ignorano i bisogni e le necessita’ di coloro che lo
+
+  useranno – potenziali clienti, Italiani e dall’estero; clienti esistenti; ma
+
+  anche fornitori/partner commerciali; candidati al lavoro.
+datePublished: '2016-03-10T10:39:17.608Z'
+dateModified: '2016-03-10T10:39:16.984Z'
 title: "L’ANSIA DI COMPRARE ONLINE\_"
 author: []
 authors: []
@@ -26,51 +35,51 @@ _type: Article
 
 # L'ANSIA DI COMPRARE ONLINE 
 
-Per il mio matrimonio, sono stata salvata da mia madre, che nonostante fosse in 
-America e' riuscita ad organizzare tutto, a parte il mio vestito. Risoluta in 
-qualsiasi situazione, si e' affidata al telefono, il web e alle email. Se un fornitore 
-non le rispondeva, lo scartava e andava avanti. 
-Nessuno dei fornitori aveva un sito ben concepito. Come me, ha sofferto per la 
-mancanza online d'informazioni complete, di foto ad alta risoluzione, di una 
-navigazione fruibile alle sue necessita'. 
+Molti dei siti di e-commerce sono concepiti in base
+ad esigenze commerciali. Quando il sito e' basato solo sugli obiettivi
+dell'azienda, purtroppo si ignorano i bisogni e le necessita' di coloro che lo
+useranno -- potenziali clienti, Italiani e dall'estero; clienti esistenti; ma
+anche fornitori/partner commerciali; candidati al lavoro.
 
-Nel caso della nostra lista nozze, mi son 
-anche vergognata perche' dovevo fornire il link dell'azienda a parenti in America 
-ed in Inghilterra che avrebbero usato il sito per farci un regalo. Persone 
-abituatissime all'ecommerce.  La maggior parte della lista era composta da regali importanti, e nonostante 
-questo non erano assolutamente valorizzati. Il catalogo mostrava il nome e 
-codice del prodotto, senza descrizione, con foto minuscole e di bassa risoluzione, 
-tra cui si poteva navigare in base solo alla categoria. Era impossibile vedere il 
-dettaglio del prodotto in foto, ne' essere sicuri che la transazione fosse andata a 
-buon fine. 
+Tra le mancanze piu' comuni, si trovano anche
+quelle che dovrebbero essere considerate fondamentali: 
 
-Dopo il matrimonio, l'azienda ha ridisegnato il sito in maniera piu' raffinata ma 
-facendo pochi miglioramenti all'esperienza ed alla soddisfazione finale del 
-cliente. 
+* la
+mancanza online d'informazioni complete sull'azienda, es. contatti ed orari di
+apertura; e sui prodotti/servizi
 
-**Cosa ho capito:**
+* di
+foto dei prodotti ad alta risoluzione
 
-* Molti dei siti sono concepiti in base ad esigenze commerciali, purtroppo 
-ignorando i bisogni e le necessita' di coloro che li useranno -- potenziali 
-clienti, Italiani e dall'estero; clienti esistenti; ma anche fornitori/partner 
-commerciali; candidati al lavoro
+* di
+una navigazione fruibile alle necessita' del cliente, per esempio una nel quale
+l'utente arriva dove vuole sul sito con il minor numero di clic, o in base ai
+suoi termini di ricerca
 
-* Tra le tante mancanze, trovo anche piccoli accorgimenti, che chiamero' 
-"cortesie digitali". Per esempio, limitare il numero di pagine tra le quali 
-un utente deve cliccare per arrivare a dove vuole; non dover reinserire il 
-numero della carta di credito o la password scelta ogni volta che il 
-sistema trova una mancata informazione nella registrazione. 
+In ogni fase di una visita online, l'utente ha
+bisogno di potersi orientare facilmente, di muoversi con certezza, di poter
+vedere chiaramente il prodotto che vuole comprare, e di esser rassicurato di
+avere a che fare con un sito sicuro di un'azienda valida. Ignorare questi
+criteri essenziali ai vostri utenti, li rendera' insicuri sul vostro sito e
+restii a completare un acquisto.
 
-**Consiglio: **
+****
 
-Mettetevi nei panni dei vostri clienti. Provate a comprare online sul 
-vostro sito e, forse penserete che non e' male, ma provate ad essere 
-sinceri con voi stessi. Se foste voi, non apprezzereste che l'azienda a cui 
-volete dare dei soldi si sia presa la premura di pensare ai vostri bisogni? 
-Magari un cliente e' di fretta, ha altre cose pressanti da finire ma, in quel 
-momento, deve comprare un bel regalo. Non gli farebbe comodo avere 
-tutti i comandi li' a portata di mano, di poter concludere una transazione 
-con un sorriso, e tanta soddisfazione? Anche in questo caso, ci sono 
-esperti nel settore. Ascoltateli, costruire una bella esperienza per i vostri 
-clienti fara' si che penseranno a voi per altri acquisti futuri e parleranno 
-bene di voi.
+**Consiglio:**
+
+Mettetevi nei panni dei vostri clienti. Provate a
+comprare un prodotto (o piu' prodotti) sul vostro sito. Quali passi e contenuti
+potete semplificare o valorizzare? Tenete conto che se l'esperienza e'
+inutilmente complicata, e' probabile che l'acquirente abbandoni il vostro sito
+e che voi perdiate la vendita. 
+
+Date piu' controllo ai vostri clienti nell'acquisto
+e costruite per loro una bella esperienza, dall'inizio fino alla consegna ed al
+servizio clienti. In questo modo penseranno a voi per acquisti nel futuro, e
+parleranno bene di voi ad amici e conoscenti. Un sito di e-commerce ben
+concepito e rintracciabile vi aiutera' ad attirare nuovi clienti.
+
+__
+
+_Tags \#e-commerce \#navigation \#audience
+\#customerfocus \#user journey \#user experience __\#passaparola_
