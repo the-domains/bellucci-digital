@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Quando visito un sito ed automaticamente parte un video o un’animazione o una musica, oppure si apre una finestrella (pop-up) senza che l’abbia richiesto io, il mio primo istinto e’ di mutare il volume e cercare di fermare il video, o chiudere la finestra. Questo perche’ quando visito per la prima volta il sito di un’azienda, sto cercando di farmi un’idea generale di quello che offre e se puo’ rispondere ad un mio bisogno, un interesse o anche una mia stravaganza.'
-datePublished: '2016-03-09T21:31:41.752Z'
-dateModified: '2016-03-09T21:31:31.797Z'
+datePublished: '2016-03-10T23:31:12.830Z'
+dateModified: '2016-03-10T10:30:17.675Z'
 title: "L’IMPORTANZA DELLA HOMEPAGE\_"
 author: []
+sourcePath: _posts/2016-03-09-limportanza-della-homepage.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-limportanza-della-homepage.md
-published: true
 url: limportanza-della-homepage/index.html
 _type: Article
 
