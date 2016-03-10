@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_La mia impressione delle piccole e medie aziende locali che hanno scelto di essere presenti sui siti di social media, come Facebook e Twitter, e’ che in genere hanno un approccio un po’ ingenuo e focalizzato sul breve termine.\_"
-datePublished: '2016-03-09T21:37:49.646Z'
-dateModified: '2016-03-09T21:37:38.538Z'
+datePublished: '2016-03-10T23:30:54.134Z'
+dateModified: '2016-03-10T10:29:58.189Z'
 title: "SOCIAL MEDIA DISCONNESSA\_"
 author: []
+sourcePath: _posts/2016-03-09-social-media-disconnessa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-social-media-disconnessa.md
-published: true
 url: social-media-disconnessa/index.html
 _type: Article
 
