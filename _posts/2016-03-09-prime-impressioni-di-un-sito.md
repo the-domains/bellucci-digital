@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-09T20:50:53.809Z'
-dateModified: '2016-03-09T20:50:44.489Z'
+description: "\_Il sito e’ fondamentale nel formare l’impressione che lasciate della vostra azienda agli occhi del consumatore. Se l’esperienza che fornite su quel canale e’ buona, avrete due benefici: 1) il vostro brand sara’ considerato in maniera positiva; e 2) i consumatori/clienti torneranno a visitarlo.\_"
+datePublished: '2016-03-10T10:27:20.958Z'
+dateModified: '2016-03-09T21:41:32.845Z'
 title: "PRIME IMPRESSIONI DI UN SITO\_"
 author: []
+sourcePath: _posts/2016-03-09-prime-impressioni-di-un-sito.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-prime-impressioni-di-un-sito.md
-published: true
 url: prime-impressioni-di-un-sito/index.html
 _type: Article
 
@@ -38,3 +38,4 @@ Al giorno d'oggi quando si pensa ad un sito, s'inizia sempre dall'esperienza che
 
 _Tags \#mobilefirst \#responsivewebdesign \#cross-channel \#userexperience \#browser \#PC \#mobile \#tablet
 _
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/959ce578-e75d-48a4-a8b3-67726b435e18.jpg)
