@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_Le persone che scrivono i contenuti per i siti aziendali spesso non conoscono il linguaggio dei loro clienti e non si preoccupano di migliorare il modo di comunicare con loro online. \n\nParte del problema inizia quando le aziende applicano le loro logiche/ organizzazioni interne al linguaggio dei testi, anche nella denominazione dei contenuti del sito, dal menu’ alle schede del prodotto.\_"
-datePublished: '2016-03-11T00:17:46.545Z'
-dateModified: '2016-03-11T00:17:45.766Z'
+datePublished: '2016-03-11T00:23:48.444Z'
+dateModified: '2016-03-11T00:18:06.127Z'
 title: "IL LINGUAGGIO DEL SITO\_"
 author: []
 sourcePath: _posts/2016-03-09-il-linguaggio-del-sito.md
@@ -40,3 +40,4 @@ Alla fine se non parlate come i vostri clienti, loro avranno grande difficolta' 
 _Tags \#userlanguage \#userdata \#webanalytics \#rintracciabilita'
 _
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42b79923-e2a2-484d-a341-602203a7789c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a90b1166-e9ba-4efb-87fd-ef0416ecfd80.jpg)
