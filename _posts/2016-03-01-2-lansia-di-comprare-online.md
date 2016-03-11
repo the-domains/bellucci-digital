@@ -15,8 +15,8 @@ description: >-
   useranno – potenziali clienti, Italiani e dall’estero; clienti esistenti; ma
 
   anche fornitori/partner commerciali; candidati al lavoro.
-datePublished: '2016-03-11T00:07:31.892Z'
-dateModified: '2016-03-11T00:07:30.971Z'
+datePublished: '2016-03-11T00:12:27.161Z'
+dateModified: '2016-03-11T00:07:49.334Z'
 title: "L’ANSIA DI COMPRARE ONLINE\_"
 author: []
 sourcePath: _posts/2016-03-01-2-lansia-di-comprare-online.md
@@ -81,3 +81,4 @@ __
 
 _Tags \#e-commerce \#navigation \#audience
 \#customerfocus \#user journey \#user experience __\#passaparola_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f3a8b49-0bbb-462f-9b8c-2489339cac53.jpg)
