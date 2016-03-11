@@ -15,8 +15,8 @@ description: >-
   useranno – potenziali clienti, Italiani e dall’estero; clienti esistenti; ma
 
   anche fornitori/partner commerciali; candidati al lavoro.
-datePublished: '2016-03-11T00:12:27.161Z'
-dateModified: '2016-03-11T00:07:49.334Z'
+datePublished: '2016-03-11T00:13:37.743Z'
+dateModified: '2016-03-11T00:13:04.347Z'
 title: "L’ANSIA DI COMPRARE ONLINE\_"
 author: []
 sourcePath: _posts/2016-03-01-2-lansia-di-comprare-online.md
@@ -31,6 +31,8 @@ url: 2-lansia-di-comprare-online/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7658787-009b-43a8-aa9e-5f33acdbbc8d.jpg)
+
 # L'ANSIA DI COMPRARE ONLINE 
 
 Molti dei siti di e-commerce sono concepiti in base
