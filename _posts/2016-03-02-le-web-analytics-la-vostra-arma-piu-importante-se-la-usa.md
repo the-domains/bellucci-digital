@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Le statistiche che indicano la performance di un sito web e delle comunicazioni di marketing online sono un’ottimo strumento per capire come muoversi sui canali digitali. Non solo offrono una visione di come la vostra comunicazione riesce a cogliere l’attenzione, ispirare e a dirigere i vostri clienti ad un’esplorazione piu’ approfondita dei vostri prodotti e servizi; ma sopratutto, vi aiutano a capire meglio il vostro cliente e come migliorare la loro esperienza e soddisfazione, nel visitare il vostro sito, nel leggere le vs. newsletter, nell’acquisto, ecc.\_"
-datePublished: '2016-03-10T23:31:32.030Z'
-dateModified: '2016-03-10T10:17:46.013Z'
+datePublished: '2016-03-11T00:04:10.611Z'
+dateModified: '2016-03-11T00:03:42.439Z'
 title: "LE WEB ANALYTICS – LA VOSTRA ARMA PIU’ IMPORTANTE, SE LA USATE\_"
 author: []
+sourcePath: _posts/2016-03-02-le-web-analytics-la-vostra-arma-piu-importante-se-la-usa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-le-web-analytics-la-vostra-arma-piu-importante-se-la-usa.md
-published: true
 url: le-web-analytics-la-vostra-arma-piu-importante-se-la-usa/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e22f33e-9b1d-461a-a009-fcbdaa2d0950.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7067e524-50e0-4fe8-a09a-6199718d7c38.jpg)
 
 # LE WEB ANALYTICS -- LA VOSTRA ARMA PIU' IMPORTANTE, SE LA USATE 
 
