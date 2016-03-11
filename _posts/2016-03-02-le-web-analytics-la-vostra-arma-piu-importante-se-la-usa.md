@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Le statistiche che indicano la performance di un sito web e delle comunicazioni di marketing online sono un’ottimo strumento per capire come muoversi sui canali digitali. Non solo offrono una visione di come la vostra comunicazione riesce a cogliere l’attenzione, ispirare e a dirigere i vostri clienti ad un’esplorazione piu’ approfondita dei vostri prodotti e servizi; ma sopratutto, vi aiutano a capire meglio il vostro cliente e come migliorare la loro esperienza e soddisfazione, nel visitare il vostro sito, nel leggere le vs. newsletter, nell’acquisto, ecc.\_"
-datePublished: '2016-03-11T00:04:10.611Z'
-dateModified: '2016-03-11T00:03:42.439Z'
+datePublished: '2016-03-11T00:09:55.743Z'
+dateModified: '2016-03-11T00:04:18.644Z'
 title: "LE WEB ANALYTICS – LA VOSTRA ARMA PIU’ IMPORTANTE, SE LA USATE\_"
 author: []
 sourcePath: _posts/2016-03-02-le-web-analytics-la-vostra-arma-piu-importante-se-la-usa.md
