@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_Il sito e’ fondamentale nel formare l’impressione che lasciate della vostra azienda agli occhi del consumatore. Se l’esperienza che fornite su quel canale e’ buona, avrete due benefici: 1) il vostro brand sara’ considerato in maniera positiva; e 2) i consumatori/clienti torneranno a visitarlo.\_"
-datePublished: '2016-03-12T00:07:24.665Z'
-dateModified: '2016-03-12T00:07:09.433Z'
+datePublished: '2016-03-12T00:12:55.521Z'
+dateModified: '2016-03-12T00:07:35.030Z'
 title: "PRIME IMPRESSIONI DI UN SITO\_"
 author: []
 sourcePath: _posts/2016-03-09-prime-impressioni-di-un-sito.md
