@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
@@ -15,8 +15,8 @@ description: >-
   useranno – potenziali clienti, Italiani e dall’estero; clienti esistenti; ma
 
   anche fornitori/partner commerciali; candidati al lavoro.
-datePublished: '2016-03-12T00:07:56.914Z'
-dateModified: '2016-03-11T00:13:46.814Z'
+datePublished: '2016-03-12T00:13:08.522Z'
+dateModified: '2016-03-12T00:08:06.434Z'
 title: "L’ANSIA DI COMPRARE ONLINE\_"
 author: []
 sourcePath: _posts/2016-03-01-2-lansia-di-comprare-online.md
@@ -28,7 +28,7 @@ publisher:
   url: null
   favicon: null
 url: 2-lansia-di-comprare-online/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7658787-009b-43a8-aa9e-5f33acdbbc8d.jpg)
