@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "\_Il sito e’ fondamentale nel formare l’impressione che lasciate della vostra azienda agli occhi del consumatore. Se l’esperienza che fornite su quel canale e’ buona, avrete due benefici: 1) il vostro brand sara’ considerato in maniera positiva; e 2) i consumatori/clienti torneranno a visitarlo.\_"
-datePublished: '2016-03-10T23:31:21.662Z'
-dateModified: '2016-03-10T10:27:27.315Z'
+datePublished: '2016-03-12T00:07:24.665Z'
+dateModified: '2016-03-12T00:07:09.433Z'
 title: "PRIME IMPRESSIONI DI UN SITO\_"
 author: []
 sourcePath: _posts/2016-03-09-prime-impressioni-di-un-sito.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: prime-impressioni-di-un-sito/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d9fe963-393b-4e9b-bb48-5fc54a00b997.jpg)
