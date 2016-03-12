@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Gran parte\ndelle piccole e medie imprese locali, sopratutto quelle artigiane, non ha un\nsito. Se esiste, spesso la sua infrastruttura non tiene conto dei requisiti\nnecessari per apparire nei risultati di ricerca di Google e di altri motori.\nQuesti requisiti tecnici (rif:\_ottimizzazione) purtroppo cambiano spesso, e se la\npersona che costruisce e gestisce il vostro sito non e’ un esperto che si tiene\nal corrente regolarmente, e non modifica il codice del vostro sito a seconda\ndei cambiamenti, e’ possibile che rimaniate nascosti ai vostri potenziali\nclienti."
-datePublished: '2016-03-10T23:32:08.067Z'
-dateModified: '2016-03-10T23:30:52.125Z'
+datePublished: '2016-03-12T00:13:16.178Z'
+dateModified: '2016-03-12T00:08:19.059Z'
 title: 'RINTRACCIABILITA’ ONLINE '
 author: []
 sourcePath: _posts/2016-02-29-1-se-lo-costruisci-non-necessariamente-verranno.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: 1-se-lo-costruisci-non-necessariamente-verranno/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7582e9f6-cb65-4f8e-83a7-4faf4ffd36a6.jpg)
