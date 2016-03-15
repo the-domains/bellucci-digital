@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Consulenza strategica per chi desidera aver successo nel mondo digitale]]></title>
         <description><![CDATA[Consulenza strategica per chi desidera aver successo nel mondo digitale]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bellucci-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 15:33:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 15:37:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bellucci-digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[INTRODUZIONE]]></title>
             <description><![CDATA[<article><h1>INTRODUZIONE</h1><p>Questo “blog”
@@ -13,9 +13,9 @@ e’ scritto principalmente per le tante piccole e medie imprese italiane, a
 carattere locale (se non familiare) e focalizzate sulla qualità dei loro
 prodotti, allo scopo di introdurle alle opportunità che le tecnologie online ed
 il web marketing rappresentano. </p></article>]]></description>
-            <link>undefined99d020a8-abeb-4e00-ba13-a3caec0666e2/index.html</link>
+            <link>https://thegrid.ai/bellucci-digital/99d020a8-abeb-4e00-ba13-a3caec0666e2/index.html</link>
             <guid isPermaLink="false">99d020a8-abeb-4e00-ba13-a3caec0666e2</guid>
-            <pubDate>Tue, 15 Mar 2016 15:33:57 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 15:36:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
